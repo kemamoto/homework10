@@ -33,6 +33,14 @@ jobs:
           report.html
           jest-html-reporters-attach/report        
 
+    - name: Get Allure history
+      uses: actions/checkout@v2
+      if: always()
+      continue-on-error: true
+      with:
+        ref: gh-pages
+        path: gh-pages
+
     - name: Allure Report action from marketplace
       uses: simple-elf/allure-report-action@master
       if: always()
