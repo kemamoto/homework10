@@ -1,0 +1,5 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Sat Jun 04 17:05:28 GMT 2022","Sat Jun 04 17:05:28 GMT 2022","413","","Testing with mailboxlayer.com","","Testing with mailboxlayer.com","Is a role email?","Is a role email?",""
+"passed","Sat Jun 04 17:05:28 GMT 2022","Sat Jun 04 17:05:28 GMT 2022","183","","Testing with mailboxlayer.com","","Testing with mailboxlayer.com","Check if api key is missed","Check if api key is missed",""
+"passed","Sat Jun 04 17:05:27 GMT 2022","Sat Jun 04 17:05:27 GMT 2022","526","","Testing with mailboxlayer.com","","Testing with mailboxlayer.com","Check that email is not disposable","Check that email is not disposable",""
+"passed","Sat Jun 04 17:05:27 GMT 2022","Sat Jun 04 17:05:28 GMT 2022","485","","Testing with mailboxlayer.com","","Testing with mailboxlayer.com","Check that format is correct","Check that format is correct",""
